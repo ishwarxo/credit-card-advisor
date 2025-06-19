@@ -19,7 +19,7 @@ A web-based chatbot that recommends personalized credit cards for Indian users u
 - Displays results in chat UI.
 
 ## Demo
-[Link to video/GIF]
+[Drive Link](https://drive.google.com/file/d/15824bSllRF6xPnak0SkMzX3ZPZ_0wPmd/view?usp=sharing)
 
 ## Deployment
 Deployed on [Vercel/Heroku link]
