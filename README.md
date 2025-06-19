@@ -22,4 +22,4 @@ A web-based chatbot that recommends personalized credit cards for Indian users u
 [Drive Link](https://drive.google.com/file/d/15824bSllRF6xPnak0SkMzX3ZPZ_0wPmd/view?usp=sharing)
 
 ## Deployment
-Deployed on [Vercel/Heroku link]
+Deployed on [https://credit-card-advisor-6gdk.onrender.com/](https://credit-card-advisor-6gdk.onrender.com/)
